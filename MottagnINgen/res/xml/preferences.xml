@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+    
+    <ListPreference
+        android:title="@string/title_news_source_pref"
+        android:key="@string/pref_news_source"
+        android:entries="@array/news_sources"
+        android:entryValues="@array/news_sources_values"
+        android:defaultValue="@string/mottagningen_rss_url" />
+    
+    <EditTextPreference
+        android:title="@string/title_calendar_source_pref"
+        android:key="@string/pref_calendar_source"
+        android:defaultValue="@string/default_calendar_source" />
+    
+   	<EditTextPreference
+        android:title="@string/title_map_source_pref"
+        android:key="@string/pref_map_source"
+        android:defaultValue="@string/default_map_source" />
+</PreferenceScreen>

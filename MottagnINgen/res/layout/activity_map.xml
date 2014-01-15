@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+   	
+	<fragment
+	    android:id="@+id/map"
+	    android:layout_width="match_parent"
+	    android:layout_height="match_parent"
+	    class="com.google.android.gms.maps.SupportMapFragment"
+		xmlns:map="http://schemas.android.com/apk/res-auto"
+	    map:mapType="hybrid"
+	    map:uiRotateGestures="true"
+	    map:cameraTargetLat="59.40545"
+	    map:cameraTargetLng="17.9444"
+	    map:cameraZoom="10" />
+	
+	<LinearLayout 
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:background="@color/lightgray"
+		android:layout_alignParentLeft="true"
+    	android:layout_alignTop="@id/map">
+	    
+        <Spinner
+	      	android:id="@+id/spinner"
+	      	android:layout_width="wrap_content"
+	      	android:layout_height="wrap_content" />
+	</LinearLayout>
+    
+</RelativeLayout>

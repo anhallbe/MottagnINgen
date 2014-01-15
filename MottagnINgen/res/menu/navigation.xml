@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:id="@+id/action_news"
+        android:title="@string/title_activity_news"
+        android:showAsAction="never" />
+    
+    <item android:id="@+id/action_map"
+        android:title="@string/title_activity_map"
+        android:showAsAction="never" />
+</menu>

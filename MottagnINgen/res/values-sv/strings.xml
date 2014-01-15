@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MottagnINgen</string>
+    <string name="action_settings">Inställningar</string>
+    <string name="title_activity_news">Nyheter</string>
+    <string name="title_activity_contact">Kontakt</string>
+    <string name="title_activity_schedule">Schema</string>
+    <string name="title_activity_map">Karta</string>
+    <string name="title_activity_web_news">WebNewsActivity</string>
+    <string name="title_activity_launcher">MottagnINgen</string>
+    
+    <!-- Preferences -->
+    <string name="pref_calendar_source">nu.mottagningen.pref_calendar_source</string>
+    <string name="pref_map_source">nu.mottagningen.pref_map_source</string>
+    <string name="pref_news_source">nu.mottagningen.pref_news_source</string>
+    <string name="default_calendar_source">https://www.google.com/calendar/ical/jcrkurh0e87s9kcr8jkgjhof8k%40group.calendar.google.com/public/basic.ics</string>
+    <string name="default_map_source">http://mapsengine.google.com/map/u/0/kml?mid=ziJoO-zysSiE.kxss6kOazuro</string>
+    <string name="title_news_source_pref">Nyhetskälla</string>
+    <string name="title_calendar_source_pref">Schema ifrån</string>
+    <string name="title_map_source_pref">Kartor ifrån</string>
+    <string name="reset_default_button_text">Standardvärden</string>
+    <string name="mottagningen_rss_url">http://mottagningen.nu/feed/</string>
+    <string name="sektionen_rss_url">http://insektionen.se/feed/</string>
+
+    <!-- Launcher Activity -->
+    <string name="news_button_text">Nyheter</string>
+    <string name="map_button_text">Karta</string>
+    <string name="schedule_button_text">Schema</string>
+    <string name="contact_button_text">Kontakta oss</string>
+    <string name="schedule_expand_text">Visa hela schemat</string>
+    <string name="schedule_collapse_text">Göm schemat</string>
+    <string name="schedule_update_text">Uppdatera</string>
+    
+    <string name="title_about">Om</string>
+    <string name="about_text">Den här applikationen kan användas av studenter under Mottagningen 2013. Mycket av innehållet kommer ifrån webbsidor och andra källor från IN-sektionen. Applikationen är utvecklad av mig (Andreas Hallberg, anhallbe@kth.se) på min fritid.\n\nApplikationen är fortfarande under utveckling, så en del fel kan uppstå. Om den krashar eller andra problem uppstår, var snäll och rapportera problemet så att jag kan åtgärda det.</string>
+    
+    <!-- Toasts and messages -->
+    <string name="message_connection_error">Anslutningsfel</string>
+    <string name="message_schedule_update_success">Schemat uppdaterades</string>
+    <string name="message_news_update_success">Nyheter uppdaterades</string>
+    <string name="message_parsing_error">Fel: Kunde inte läsa schemat</string>
+    
+    <!-- Progress -->
+    <string name="progress_title_updating_schedule">Uppdaterar schema....</string>
+    <string name="progress_connecting">Ansluter....</string>
+    <string name="progress_downloading">Laddar ner schemat....</string>
+    <string name="progress_finishing">Slutför....</string>
+
+</resources>

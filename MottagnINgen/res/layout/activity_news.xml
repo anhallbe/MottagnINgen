@@ -1,0 +1,23 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" 
+    android:background="@color/lightgray"
+    android:padding="@dimen/medium_distance">
+    
+    <ListView
+	  android:id="@android:id/list"
+	  android:layout_width="match_parent"
+	  android:layout_height="match_parent"
+	  android:dividerHeight="@dimen/medium_distance"
+	  android:divider="@android:color/transparent" 
+	  android:layoutAnimation="@anim/card_list_animation">
+	</ListView> 
+	
+    <ProgressBar 
+        android:id="@+id/progress"
+        android:layout_width="@dimen/large_distance"
+        android:layout_height="@dimen/large_distance"
+       	android:layout_centerInParent="true"
+       	android:visibility="gone"
+       	style="@android:attr/progressBarStyleLarge" />
+</RelativeLayout>
