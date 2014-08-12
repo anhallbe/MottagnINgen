@@ -1,15 +1,14 @@
-Ingrid Sörensen,Mottagningsansvarig,mottagningen@insektionen.se,0705141169
-Mikaela Illanes,Vice Mottagningsansvarig,mottagningen@insektionen.se,0707202291
-Emma Ström,Blomman,emstrom@kth.se,0706097628
-Isabel Olofsson,Bubblan,isabelo@kth.se,0706015112
-Matilda Taube,Buttran,mtaube@kth.se,0768158402
-Marianne Fjellberg,Ordf. IN-sektionen,ordf@insektionen.se,0760265679
-Johannes Olsson,BiljettMUX,johanneo@kth.se,0707631440
-Björn Eklöf,SponsMUX,bjornek@kth.se
-Patrik Karlstén,TMUX,pkarlste@kth.se,0702786680
-Viktor Pedersen,QMUX,vikped@kth.se,0735743482
-Jonas Ek,MatMUX,ek3@kth.se
-Wilhelm Svenselius,WebbMUX,wsv@kth.se
-Daniel Almqvist,MUX,danalm@kth.se
-Magnus Jansson,MUX,magnuja@kth.se
-Emil Sveningson,MUX,emilsven@kth.se
+Jacob Arvidsson,Mottagningsansvarig,ingen@insektionen.se,0702219976
+Tomás Silveira Bertorello,Vice Mottagningsansvarig,ingen@insektionen.se,0737041202
+Sofia Johansson,Kassör,MUX@insektionen.se,0706343458
+Rickard Eriksson,Sekreterare,MUX@insektionen.se,0706015112
+Daniel Almqvist,Kommunikationsansvarig,MUX@insektionen.se,0736278558
+Emelie Holm,Ordf. IN-sektionen,MUX@insektionen.se,0734307789
+Björn Eklöf,TraditionsMästare TMEIT,TM@tmeit.se,0706363646
+Astrid Gunne,QlubbMästare QMISK,QM@qmisk.com,0708308274
+Karl Stenlund,Ordförande ITK,itk@insektionen.se,0739792927
+Tobias Assarsson,TuxMUX,MUX@insektionen.se,0700159007
+Jahnava Werneburg,BiljettMUX,MUX@insektionen.se,0739394629
+Emma Ström,DoqMUX,MUX@insektionen.se,0706097628
+Matilda Taube,N0llegasqueMUX,MUX@insektionen.se,0768158402
+Erik Pettersson,LogistikMUX,MUX@insektionen.se,0737699105

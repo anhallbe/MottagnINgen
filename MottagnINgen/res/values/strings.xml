@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">MottagnINgen</string>
+    <string name="app_name">MottagnINgen 2013</string>
     <string name="action_settings">Settings</string>
     <string name="title_activity_news">News</string>
     <string name="title_activity_contact">Contact</string>
     <string name="title_activity_schedule">Schedule</string>
     <string name="title_activity_map">Map</string>
     <string name="title_activity_web_news">WebNewsActivity</string>
-    <string name="title_activity_launcher">MottagnINgen</string>
+    <string name="title_activity_launcher">MottagnINgen 2013</string>
     
     <!-- Preferences -->
     <string name="pref_calendar_source">nu.mottagningen.pref_calendar_source</string>
     <string name="pref_map_source">nu.mottagningen.pref_map_source</string>
     <string name="pref_news_source">nu.mottagningen.pref_news_source</string>
-    <string name="default_calendar_source">https://www.google.com/calendar/ical/jcrkurh0e87s9kcr8jkgjhof8k%40group.calendar.google.com/public/basic.ics</string>
+    <string name="default_calendar_source">https://www.google.com/calendar/ical/r4tij0gqelk77u33alodq38m2c%40group.calendar.google.com/public/basic.ics</string>
     <string name="default_map_source">http://mapsengine.google.com/map/u/0/kml?mid=ziJoO-zysSiE.kxss6kOazuro</string>
     <string name="title_news_source_pref">News source</string>
     <string name="title_calendar_source_pref">Calendar source</string>
