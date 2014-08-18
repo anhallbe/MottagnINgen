@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--suppress MissingTranslation -->
+    <string-array name="news_sources">
+        <item name="mottagningen">mottagningen.nu</item>
+        <item name="sektionen">insektionen.se</item>
+    </string-array>
+    
+    <string-array name="news_sources_values">
+        <item name="mottagningen">@string/mottagningen_rss_url</item>
+        <item name="sektionen">@string/sektionen_rss_url</item>
+    </string-array>
+</resources>
